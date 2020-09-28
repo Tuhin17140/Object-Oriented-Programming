@@ -13,6 +13,7 @@
 //         echo "My name is $this->name\n";
 //     }                   
 // }
+/*
 class Human
 {
     public $name;           //attributes
@@ -41,4 +42,4 @@ $h2 = new Human("Rakib", 22);
 $h3 = new Human("Rakib");
 $h1->sayHi();
 $h2->sayHi();
-$h3->sayHi();
+$h3->sayHi();*/
