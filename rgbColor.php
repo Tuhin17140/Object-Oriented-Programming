@@ -106,3 +106,5 @@ $myColor->getColor();
 $myColor->getRGBColor();
 $myColor->readRGBColor();
 $myColor->getRed();
+$myColor->getBlue();
+$myColor->getGreen();
