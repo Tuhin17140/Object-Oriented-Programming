@@ -27,7 +27,7 @@ class Rectangular extends Shape{
         echo $this->base*$this->height;
     }
     function getPerimeter(){
-
+        
     }
 }
 
